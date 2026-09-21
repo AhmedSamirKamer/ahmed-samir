@@ -32,5 +32,5 @@ My repositories contain my structured learning notes, practical labs, and docume
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** [Your-Username](https://github.com/AhmedSamirKamer)
+- **GitHub:** [AhmedSamirKamer](https://github.com/AhmedSamirKamer)
 - **Email:** [Ahmmedsamirea@gmail.com)
